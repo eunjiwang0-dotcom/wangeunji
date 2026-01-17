@@ -1,0 +1,64 @@
+		*{
+ margin : 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+@font-face {
+  font-family: mycustomfont;
+  src: url(Pretendard-Light.otf);
+}
+
+body {
+    margin: 50px;
+    margin-left: 50px;
+    background-color: F5F5F5;
+    font-family: mycustomfont;
+}
+
+h1 {
+	display: inline;
+	font-family: serif;
+	font-size: 50pt;
+	font-weight: bold;
+	color: red;
+	font-family: mycustomfont;
+
+	
+
+
+}
+
+p { color: red;
+	width: 1000px;
+	padding
+}
+
+
+ul{ 
+
+}
+
+
+ol{
+
+}
+
+
+
+li{ margin-bottom: 20px;
+}
+.redtext{
+	color: red;
+}
+
+@media screen and (max-width: 704px) {
+
+}
+
+iframe{ width: 200px;
+	    height: 200px;
+}
+
+
+
