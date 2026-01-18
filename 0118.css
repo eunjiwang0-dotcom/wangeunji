@@ -1,0 +1,29 @@
+		*{
+ margin : 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+@font-face {
+  font-family: mycustomfont;
+  src: url(Pretendard-Light.otf);
+}
+
+body {
+    margin: 50px;
+    margin-left: 50px;
+    font-family: mycustomfont;
+}
+
+h1 {
+	color: red;
+	font-family: mycustomfont;
+}
+
+.redtext{ 
+  color: red;
+
+ }
+@media screen and (max-width: 704px) {
+
+}
